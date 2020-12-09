@@ -9,3 +9,4 @@ if __name__ == '__main__':
     
     query_name = input()
     print("{0:.2f}".format(mean(student_marks[query_name])))
+    print("I'm printing something here too!")
