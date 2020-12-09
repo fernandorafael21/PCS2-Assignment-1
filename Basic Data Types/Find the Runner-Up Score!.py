@@ -4,3 +4,5 @@ if __name__ == '__main__':
     no_repetitions = list(dict.fromkeys(arr))
     no_repetitions.sort()
     print(no_repetitions[-2])
+
+print("fernando!")
