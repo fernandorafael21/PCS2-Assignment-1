@@ -6,3 +6,5 @@ if __name__ == '__main__':
     result = [[i,j,k] for i in range(0,x+1) for j in range(0,y+1) for k in range(0,z+1) if sum([i,j,k]) != n]
 
     print(result)
+
+    print("My name is Fernando. My favorite anime is Death Note. I like it very much. Thank you!")
